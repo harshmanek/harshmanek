@@ -29,9 +29,8 @@
 - Creative design tools and late-night coding sessions (with chai!)
 
 📫 **Reach me at:**
-- 📧 [your.email@example.com](mailto:your.email@example.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 🌐 [Portfolio](https://your-portfolio-link.com)
+- 📧 [harshmanek786@gmail.com](mailto:harshmanek786@gmail.com)
+- 🔗 [harshmanek10](https://www.linkedin.com/in/harshmanek10)
 
 ⚡ **Fun Fact:**
 > I write better code after 10 PM — especially if there's chai involved 😄
@@ -92,10 +91,10 @@
 ### 🔗 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/harshmanek10" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:harshmanek786@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
