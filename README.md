@@ -29,8 +29,8 @@
 - Creative design tools and late-night coding sessions (with chai!)
 
 📫 **Reach me at:**
-- 📧 [harshmanek786@gmail.com](mailto:harshmanek786@gmail.com)
-- 🔗 [harshmanek10](https://www.linkedin.com/in/harshmanek10)
+- 📧 [Email](mailto:harshmanek786@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/harshmanek10)
 
 ⚡ **Fun Fact:**
 > I write better code after 10 PM — especially if there's chai involved 😄
