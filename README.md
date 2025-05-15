@@ -24,7 +24,7 @@
 - UI/UX and graphic design
 
 💬 **Ask me about:**
-- React, Node.js, Spring Boot, MongoDB
+- Spring Boot, Node.js, React, MongoDB
 - Java, C++, Python
 - Creative design tools and late-night coding sessions (with chai!)
 
